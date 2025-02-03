@@ -27,4 +27,4 @@
 ![codewars](https://www.codewars.com/users/eg0r-dev/badges/large)
 
 ### 📫 Связь со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qxifo)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qxifo)
