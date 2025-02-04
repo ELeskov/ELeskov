@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&letterSpacing=2px&pause=1000&color=F7F7F7&background=FFE63700&center=true&vCenter=true&width=1000&lines=👋Hi.+My+name+is+Egor+Leskov" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&letterSpacing=2px&pause=1000&color=62859C&background=FFE63700&center=true&vCenter=true&width=1000&lines=👋Hi.+My+name+is+Egor+Leskov" alt="Typing SVG" /></a>
 
 ## 💻About me:
 - 🎓 I am a 3rd year student. I started learning web development six months ago
