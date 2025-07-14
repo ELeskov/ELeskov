@@ -1,7 +1,3 @@
-
-## 💻About me:
-- 🎓 I am a 3rd year student. I started learning web development six months ago
-
 ## ⚡Skills
 
 <p align="left">
